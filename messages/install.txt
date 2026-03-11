@@ -1,0 +1,6 @@
+sublime-jsfx-lint
+-------------------------------
+This linter plugin for SublimeLinter provides an interface to jsfx-lint.
+
+For more information, please see:
+https://github.com/jamesWalker55/sublime-jsfx-lint
